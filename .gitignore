@@ -1,0 +1,6 @@
+/bin/
+/Prototyping/Test Data/
+target/
+
+*.iml
+.idea
