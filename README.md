@@ -1,5 +1,5 @@
 
-#[Based on DTMF Decoder](http://tino1b2be.github.io/DTMF-Decoder/)
+# [Based on DTMF Decoder](http://tino1b2be.github.io/DTMF-Decoder/)
 For the project page click [here](http://tino1b2be.github.io/DTMF-Decoder/).
 
 Removed MP3 and OGG files support. Moved to maven.
