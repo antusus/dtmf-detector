@@ -20,5 +20,10 @@
             <artifactId>commons-math3</artifactId>
             <version>3.6.1</version>
         </dependency>
+        <dependency>
+            <groupId>ie.corballis</groupId>
+            <artifactId>sox-java</artifactId>
+            <version>1.0.3</version>
+        </dependency>
     </dependencies>
 </project>
